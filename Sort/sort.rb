@@ -1,4 +1,5 @@
 require_relative 'exchange_sort'
+require_relative 'selection_sort'
 
 # Sort Algorithm
 class Sort
@@ -13,7 +14,11 @@ class Sort
   def exchange_sort
     ExchangeSort.sort(@data)
   end
+
+  def selection_sort
+    SelectionSort.sort(@data)
+  end
 end
 
 s = Sort.new([9, 5, 6, 4, 7, 10, 12, 8])
-p s.exchange_sort
+p s.selection_sort
