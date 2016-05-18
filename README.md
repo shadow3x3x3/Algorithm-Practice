@@ -6,3 +6,4 @@ Using Ruby for Algorithm Practice
 * Sort
   - Exchange Sort
   - Selection Sort
+  - Insertion Sort
