@@ -2,9 +2,9 @@
 module SelectionSort
   def self.sort(data)
     array = data.clone
-    (0..array.size - 1).each do |i1|
+    0.upto(data.size - 1) do |i1|
       min_index = i1
-      (i1..array.size - 1).each do |i2|
+      i1.upto(data.size - 1) do |i2|
         min_index = i2 if array[i2] < array[min_index]
       end
       array[i1], array[min_index] = array[min_index], array[i1]
