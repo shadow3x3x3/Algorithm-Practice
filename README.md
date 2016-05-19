@@ -7,3 +7,4 @@ Using Ruby for Algorithm Practice
   - Exchange Sort
   - Selection Sort
   - Insertion Sort
+  - Bubble Sort
