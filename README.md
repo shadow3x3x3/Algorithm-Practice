@@ -8,3 +8,4 @@ Using Ruby for Algorithm Practice
   - Selection Sort
   - Insertion Sort
   - Bubble Sort
+  - Merge Sort
