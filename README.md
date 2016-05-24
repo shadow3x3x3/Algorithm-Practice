@@ -10,3 +10,4 @@ Using Ruby for Algorithm Practice
   - Bubble Sort
   - Merge Sort
   - Quick Sort (From Wikipedia)
+  - Bucket Sort
