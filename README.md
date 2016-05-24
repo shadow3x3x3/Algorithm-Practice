@@ -9,3 +9,4 @@ Using Ruby for Algorithm Practice
   - Insertion Sort
   - Bubble Sort
   - Merge Sort
+  - Quick Sort (From Wikipedia)
