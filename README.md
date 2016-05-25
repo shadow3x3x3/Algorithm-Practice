@@ -11,3 +11,4 @@ Using Ruby for Algorithm Practice
   - Merge Sort
   - Quick Sort (From Wikipedia)
   - Bucket Sort
+  - Bead Sort
